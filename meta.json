@@ -672,6 +672,8 @@
   "license": "MIT",
   "web": "https://github.com/pietroppeter/nimib",
   "refs": [
+    "refs/heads/coda-as-source-default",
+    "refs/heads/improve-docs-for-0.3",
     "refs/heads/main",
     "refs/heads/test-pr-preview",
     "refs/tags/v0.1",
