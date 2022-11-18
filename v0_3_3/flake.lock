@@ -404,7 +404,7 @@
         "markdown": "markdown",
         "mustache": "mustache",
         "nixpkgs": "nixpkgs_2",
-        "src-nimib-main": "src-nimib-main",
+        "src-nimib-v0_3_3": "src-nimib-v0_3_3",
         "tempfile": "tempfile",
         "toml_serialization": "toml_serialization"
       }
@@ -543,7 +543,7 @@
         "type": "github"
       }
     },
-    "src-nimib-main": {
+    "src-nimib-v0_3_3": {
       "flake": false,
       "locked": {
         "lastModified": 1668363518,
@@ -555,7 +555,7 @@
       },
       "original": {
         "owner": "pietroppeter",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/v0.3.3",
         "repo": "nimib",
         "type": "github"
       }
